@@ -1,0 +1,29 @@
+.containerCounter {
+    border: 2px solid #61dafb;
+    border-radius: 5px;
+    padding: 20px;
+}
+.containerValue {
+    font-size: 20px;
+    font-weight: 700;
+    color: #61dafb;
+    border: 2px solid #61dafb;
+    border-radius: 5px;
+    width: 300px;
+    padding: 20px;
+
+}
+.value {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.value input {
+    width: 50%;
+    height: 25px;
+}
+.setBtn {
+    margin-top: 10px;
+    border: 2px solid #61dafb;
+    padding: 10px;
+}
